@@ -52,7 +52,7 @@ public class Main {
                 System.out.print("||\t");
             }
         }
-        System.out.println(delimiter);
+        System.out.println("\n" + delimiter);
     }
 
     private static void dz2() {
